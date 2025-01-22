@@ -13,7 +13,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Machine+Learning+Engineer;Working+on+cool+things;Open+source+🤗)](https://git.io/typing-svg)
 
-🔭 I’m currently working on AI Agents
+🔭 I’m currently working on AI Agents \
 🌱 I’m currently learning ML Engineering
 
 <!--
